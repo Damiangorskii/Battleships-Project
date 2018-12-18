@@ -1,0 +1,15 @@
+\babel@toc {polish}{}
+\contentsline {section}{\numberline {1}Zasady}{3}
+\contentsline {subsection}{\numberline {1.1}Punktacja}{3}
+\contentsline {subsection}{\numberline {1.2}Sprz\IeC {\k e}t}{3}
+\contentsline {subsection}{\numberline {1.3}Przedskoczek}{4}
+\contentsline {subsection}{\numberline {1.4}Startowanie zawodnik\IeC {\'o}w}{4}
+\contentsline {subsection}{\numberline {1.5}Punkty}{5}
+\contentsline {section}{\numberline {2}Zawody}{5}
+\contentsline {section}{\numberline {3}Najdalsze skoki narciarskie na \IeC {\'s}wiecie}{7}
+\contentsline {section}{\numberline {4}Polska a skoki narciarskie}{7}
+\contentsline {subsection}{\numberline {4.1}Indywidualni reprezentanci}{7}
+\contentsline {subsection}{\numberline {4.2}Dru\IeC {\.z}yna Narodowa}{8}
+\contentsline {section}{\numberline {5}Ciekawostki}{10}
+\contentsline {subsection}{\numberline {5.1}Czynnik wiatru}{10}
+\contentsline {subsection}{\numberline {5.2}Kamil Stoch i jego sekretne skupienie}{10}
