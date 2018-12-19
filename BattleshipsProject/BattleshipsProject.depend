@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1545167005 source:c:\users\lenovo\desktop\battleshipsproject\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<conio.h>
+	<string>
+	<ctime>
+	<cstdlib>
+
